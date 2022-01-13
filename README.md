@@ -1,2 +1,2 @@
 # hello-world
-my first R repository
+This Shahnawaz from ANA 505 and this is my first R repository
